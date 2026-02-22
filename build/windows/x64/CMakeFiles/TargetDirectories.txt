@@ -1,0 +1,10 @@
+C:/FlutterApps/ata_sozleri/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/FlutterApps/ata_sozleri/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/FlutterApps/ata_sozleri/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/FlutterApps/ata_sozleri/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/FlutterApps/ata_sozleri/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/FlutterApps/ata_sozleri/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/FlutterApps/ata_sozleri/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/FlutterApps/ata_sozleri/build/windows/x64/runner/CMakeFiles/ata_sozleri.dir
+C:/FlutterApps/ata_sozleri/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/FlutterApps/ata_sozleri/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
